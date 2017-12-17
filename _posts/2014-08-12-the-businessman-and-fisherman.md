@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/water.jpg
+cover: assets/images/presentation.jpg
 navigation: True
 title: Presentation
 date: 2014-08-12 10:18:00
@@ -14,13 +14,17 @@ categories: hannah
 ---
 
 
-We prepared the final presentaton for CEO Cho.
+Please think that we are the Head of new technology development team of strategic planning office.
 
-And he said we are very good.
+And our professor, Yong-woo Cho is our CEO.
+
+We prepared the final presentaton for our product, independent music set-top box(MVP).
 
 Now you can see how we did it.
 
 Come here and see it.
+
+Thank you.
 
 https://www.youtube.com/watch?v=c_IGs0bamdo
 
