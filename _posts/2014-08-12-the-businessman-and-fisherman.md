@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/presentation.jpg
+cover: assets/images/welcome.jpg
 navigation: True
 title: Presentation
 date: 2014-08-12 10:18:00
